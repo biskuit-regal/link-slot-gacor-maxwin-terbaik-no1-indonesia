@@ -1,0 +1,23 @@
+{
+  "name": "link-slot-gacor-maxwin-terbaik-no1-indonesia",
+  "main": "./lib/link-slot-gacor-maxwin-terbaik-no1-indonesia",
+  "version": "0.0.0",
+  "description": "Cantiktoto adalah link slot gacor mudah maxwin terbaik nomor 1 di Indonesia dengan game live casino gampang menang 2022.",
+  "keywords": [
+    "link slot gacor",
+    "slot gacor",
+    "daftar slot gacor",
+    "situs slot gacor",
+    "cantiktoto"
+  ],
+  "activationCommands": {
+    "atom-workspace": "link-slot-gacor-maxwin-terbaik-no1-indonesia:toggle"
+  },
+  "repository": "https://github.com/biskuit-regal/link-slot-gacor-maxwin-terbaik-no1-indonesia",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

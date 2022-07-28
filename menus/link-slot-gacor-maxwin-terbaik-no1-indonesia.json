@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle link-slot-gacor-maxwin-terbaik-no1-indonesia",
+        "command": "link-slot-gacor-maxwin-terbaik-no1-indonesia:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "link-slot-gacor-maxwin-terbaik-no1-indonesia",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "link-slot-gacor-maxwin-terbaik-no1-indonesia:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
